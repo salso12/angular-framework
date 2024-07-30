@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0IiwibmJmIjoxNTE2MjMsImZpcnN0bmFtZSI6IlNhcmEiLCJsYXN0bmFtZSI6IlNFS0tPVVRFIiwiZW1haWwiOiJzYXJhX3NrQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.EkXujlPiNSEMcpxQbHxH2W3TDUR6F64sf1Bf6Z5PjBw"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0IiwibmJmIjoxNTE2MjMsImZpcnN0bmFtZSI6IlNhcmEiLCJsYXN0bmFtZSI6IlNFS0tPVVRFIiwiZW1haWwiOiJzYXJhX3NrQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.nVzzwHTs3DbUfisa1pSXmNAWSp7UAZGzEW5Fr8DLmUY"
+    },
+    {
+      "id": "user3",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMyIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0IiwibmJmIjoxNTE2MjMsImZpcnN0bmFtZSI6IlNhcmEiLCJsYXN0bmFtZSI6IlNFS0tPVVRFIiwiZW1haWwiOiJzYXJhX3NrQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.VYmLM_7fLypltdHdgTtCoUqt7a_L2mVNKWxNw1id_DQ"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0IiwibmJmIjoxNTE2MjMsImZpcnN0bmFtZSI6IlNhcmEiLCJsYXN0bmFtZSI6IlNFS0tPVVRFIiwiZW1haWwiOiJzYXJhX3NrQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.FDCs_AlLyzEF_Cx0BLcHTSlRcK4aw2IGwk81-lel9pk"
+    }
+  ],
+  "products": [
+    {
+      "id": "4",
+      "name": "pc",
+      "price": 6800,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "Clavier",
+      "price": 500,
+      "checked": false
+    },
+    {
+      "id": "7",
+      "name": "Sourie",
+      "price": 875,
+      "checked": false
+    },
+    {
+      "name": "sar9",
+      "price": "15",
+      "checked": false,
+      "id": "QqpY5EB"
+    },
+    {
+      "name": "sara",
+      "price": "4",
+      "checked": false,
+      "id": "mBG-WD4"
+    },
+    {
+      "name": "test",
+      "price": "10",
+      "checked": false,
+      "id": "aRn5wZH"
+    },
+    {
+      "name": "pc2",
+      "price": "4",
+      "checked": false,
+      "id": "RtnWknz"
+    },
+    {
+      "name": "clavier",
+      "price": "200",
+      "checked": true,
+      "id": "5HSwahg"
+    }
+  ]
+}
